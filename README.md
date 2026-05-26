@@ -10,3 +10,9 @@ Some of my main skills include problem-solving, 3D design in SolidWorks, JavaScr
 
 ## Career Goals
 I want to pursue a career in mechanical or MET engineering. I aspire to attend Carnegie Mellon University to earn my degree. 
+
+## Activities
+- FIRST Tech Challenge FTC Robotics - Evergreen Dynamics #30316
+- Scouting America - Troop 219
+- Track and Field - RHS
+- Cross Country - RHS
